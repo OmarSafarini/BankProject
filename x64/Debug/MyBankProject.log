@@ -1,0 +1,81 @@
+﻿  MyBankProject.cpp
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(187,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(317,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsString.h(364,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUser.h(195,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'MyBankProject.cpp')
+  C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(205,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'MyBankProject.cpp')
+  C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(151,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(161,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(162,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(163,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(418,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(431,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyBankProject.cpp')
+  
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(373,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsBankClient.h(435,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\Lenovo\source\repos\MyBankProject\MyBankProject\clsUser.h(355,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  MyBankProject.vcxproj -> C:\Users\Lenovo\source\repos\MyBankProject\x64\Debug\MyBankProject.exe
